@@ -1,0 +1,49 @@
+.content{
+    background-color: #fca6c9;
+    margin:auto;
+}
+
+.smallContent1{
+    margin:auto;
+    max-width: 500px;
+}
+
+.smallContent2{
+    margin: auto;
+    max-width: 235px;
+    text-align: center;
+}
+
+h1, h4, h3{
+    text-align: center;
+    color:white;
+}
+
+img{
+    width: 60%;
+}
+
+h2{
+    color: white;
+}
+
+li{
+    font-weight:bold;
+}
+
+span{
+    letter-spacing: .2rem;
+}
+
+ol{
+    line-height: 1.5rem;
+}
+
+h1:hover {
+    color: black;
+}
+
+section{
+    margin: 0 auto;
+    padding: 0;
+}
